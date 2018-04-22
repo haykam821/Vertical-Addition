@@ -1,0 +1,17 @@
+{
+  "name": "vertical-addition",
+  "version": "1.0.0",
+  "description": "Positions an addition problem into a layout for vertically adding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "addition",
+    "string",
+    "numbers",
+    "math"
+  ],
+  "author": "haykam821",
+  "license": "MIT"
+}
